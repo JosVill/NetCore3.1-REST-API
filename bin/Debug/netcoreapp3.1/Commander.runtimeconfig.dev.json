@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/pyseudothon/.dotnet/store/|arch|/|tfm|",
+      "/home/pyseudothon/.nuget/packages"
+    ]
+  }
+}
